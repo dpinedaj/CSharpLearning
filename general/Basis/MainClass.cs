@@ -11,8 +11,9 @@ namespace ConsoleApp1
             Loops.Run(2);
             Console.WriteLine("Collections");
             MyCollections.Run();
-            
-            MyStrings.Run();
+            Console.WriteLine("Conditionals");
+            Conditionals.Run();
+            //MyStrings.Run();
         }
     }
 }
